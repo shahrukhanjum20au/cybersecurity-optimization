@@ -1,0 +1,15 @@
+# Generated outputs
+*.csv
+*.png
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Gurobi license
+gurobi.lic
